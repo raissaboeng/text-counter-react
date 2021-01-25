@@ -2,7 +2,7 @@
 
 <h1 align="center">Text Counter</h1> 
 
-<img src="./assets/TextCount.PNG">
+<img src="src/assets/TextCount.PNG">
 
 
 ### :mag: Sobre o projeto 
